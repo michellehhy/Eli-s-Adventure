@@ -2,24 +2,18 @@
 
 A 2D maze game developed on Unity.  
 
-<img width="956" alt="Screenshot 2021-10-18 at 16 33 15" src="https://user-images.githubusercontent.com/73033910/137769192-a7d66e33-e53b-48e3-a635-b70c8c0709eb.png" width="500" />
-
-<img width="545" alt="Screenshot 2021-10-18 at 16 34 00" src="https://user-images.githubusercontent.com/73033910/137769305-14f4f3df-224d-427d-8303-9b4c0c8b9ed6.png">
-
-![forest_shot_and_key_SparkVideo](https://user-images.githubusercontent.com/73033910/137770260-543f6158-9dcb-4a01-a350-2ef4f1518ed5.gif)
-
-
-<img width="640" alt="Screenshot 2021-10-18 at 16 34 08" src="https://user-images.githubusercontent.com/73033910/137769354-c98121af-0326-48e3-9705-079bdf487b7f.png">
-
-<img width="466" alt="Screenshot 2021-10-18 at 16 33 50" src="https://user-images.githubusercontent.com/73033910/137769265-deaa83f6-9374-4f23-a122-8386895f60f9.png">
-
-
-<img width="490" alt="Screenshot 2021-10-18 at 16 33 30" src="https://user-images.githubusercontent.com/73033910/137769223-49960ee7-2bcb-4b07-8d7e-53642ad48aee.png">
-
-<img width="457" alt="Screenshot 2021-10-18 at 16 33 38" src="https://user-images.githubusercontent.com/73033910/137769241-d04e7f5e-e730-4e7b-9ac0-e005c6a54fc9.png">
-
-
+Eli’s plane crashed on a deserted maze island and he’s lost his family... Help him escape the maze and the terrible monsters that lurk within so that he may be reunited with his family!
 
 View project source codes: https://github.com/michellehhy/Bath_SWE_CW2
 
 .dmg file: https://drive.google.com/file/d/1Hke0BAXkgw5vDxPMrx3H-KT20DIGIL3P/view?usp=sharing
+
+Full game demo: https://drive.google.com/file/d/1iKIHmao513zLHTCPTFR4dMvvOZwcad2T/view?usp=sharing
+
+Installation Guide and User Manual: https://drive.google.com/file/d/1G345EgJyp3KqyT9VJWYfrXx7j08AlQVk/view?usp=sharing
+
+![forest_shot_and_key_SparkVideo](https://user-images.githubusercontent.com/73033910/137777965-48fea53a-51c1-4a9e-b30c-e3a82eaa0a52.gif)
+
+![Screen_Recording_2021-10-18_at_17_02_53_SparkVideo](https://user-images.githubusercontent.com/73033910/137777977-ac7e13c1-964b-4dc7-b96d-dd5debb1b6eb.gif)
+
+![Screen_Recording_2021-10-18_at_16_58_22_SparkVideo](https://user-images.githubusercontent.com/73033910/137777988-07b7f0cd-0d81-405f-8437-6bbf4ffae986.gif)
