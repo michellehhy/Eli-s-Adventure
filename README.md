@@ -6,6 +6,9 @@ A 2D maze game developed on Unity.
 
 <img width="545" alt="Screenshot 2021-10-18 at 16 34 00" src="https://user-images.githubusercontent.com/73033910/137769305-14f4f3df-224d-427d-8303-9b4c0c8b9ed6.png">
 
+![forest_shot_and_key_SparkVideo](https://user-images.githubusercontent.com/73033910/137770260-543f6158-9dcb-4a01-a350-2ef4f1518ed5.gif)
+
+
 <img width="640" alt="Screenshot 2021-10-18 at 16 34 08" src="https://user-images.githubusercontent.com/73033910/137769354-c98121af-0326-48e3-9705-079bdf487b7f.png">
 
 <img width="466" alt="Screenshot 2021-10-18 at 16 33 50" src="https://user-images.githubusercontent.com/73033910/137769265-deaa83f6-9374-4f23-a122-8386895f60f9.png">
