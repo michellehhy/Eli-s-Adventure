@@ -2,7 +2,7 @@
 
 A 2D maze game developed on Unity.  
 
-<img width="956" alt="Screenshot 2021-10-18 at 16 33 15" src="https://user-images.githubusercontent.com/73033910/137769192-a7d66e33-e53b-48e3-a635-b70c8c0709eb.png">
+<img width="956" alt="Screenshot 2021-10-18 at 16 33 15" src="https://user-images.githubusercontent.com/73033910/137769192-a7d66e33-e53b-48e3-a635-b70c8c0709eb.png" width = 200>
 
 <img width="545" alt="Screenshot 2021-10-18 at 16 34 00" src="https://user-images.githubusercontent.com/73033910/137769305-14f4f3df-224d-427d-8303-9b4c0c8b9ed6.png">
 
